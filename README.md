@@ -2,7 +2,7 @@
 
 ![Hireable](https://img.shields.io/badge/Hireable-yes-success) ![](https://img.shields.io/badge/-Microverse%20projects-blueviolet)
 
-# Basic micro-reddit app build in rails (users, posts, comments and tags features)
+# Basic micro-reddit app build in rails (users, posts, and comments)
 
 > In this project, we built a micro-reddit app following the [jumpstartlab.com](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails) tutorial.<br>
 
